@@ -24,7 +24,7 @@ palavra nova, esta deve ser inserida no vetor de palavras que continuará ordena
 O arquivo de entrada contém várias linhas de texto, cada uma delas com várias palavras, considere que
 na entrada teremos no máximo 1000 palavra diferentes.
 
-Exemplos de arquivos de entrada:
+### Exemplos de arquivos de entrada:
 
 ```
 texT

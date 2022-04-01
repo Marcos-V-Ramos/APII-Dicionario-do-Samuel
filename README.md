@@ -19,7 +19,8 @@ dicionário a palavra lida deve ser descartada, caso contrário a palavra dever�
 (vetor) de **forma ordenada**, essa operação deve gastar no **máximo N passos** para cada palavra nova.
 **Importante**, não é para inserir todas as palavras no vetor de palavras e depois ordenar, e sim a cada
 palavra nova, esta deve ser inserida no vetor de palavras que continuará ordenado.
-Entrada do programa
+
+## Entrada do programa
 O arquivo de entrada contém várias linhas de texto, cada uma delas com várias palavras, considere que
 na entrada teremos no máximo 1000 palavra diferentes.
 
